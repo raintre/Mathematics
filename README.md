@@ -1,2 +1,2 @@
 # Mathematics
-Experimental program on mathematics
+Experimental programs on mathematics
