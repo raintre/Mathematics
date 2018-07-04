@@ -80,6 +80,5 @@ double func(double x){
     /* Write the calculation formula of the function f here */
     f = x*x*x + x - 1;
 
-
     return f;           /* Returns double of type number f to the caller */
 }
