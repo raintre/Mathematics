@@ -5,7 +5,6 @@
 
     double pi_compute(double n)
     {
-
         if(n == 0.0) {
             return 2.0;
         }
